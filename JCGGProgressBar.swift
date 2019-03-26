@@ -12,9 +12,9 @@ import Cocoa
 open class JCGGProgressBar: NSView {
     
     // Progress bar color
-    @IBInspectable public var barColor: NSColor = NSColor.controlColor
+    @IBInspectable public var barColor: NSColor = NSColor.labelColor
     // Track color
-    @IBInspectable public var trackColor: NSColor = NSColor.white
+    @IBInspectable public var trackColor: NSColor = NSColor.secondaryLabelColor
     // Progress bar thickness
     @IBInspectable public var barThickness: CGFloat = 10
     // Progress amount

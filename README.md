@@ -1,4 +1,4 @@
-# JCGGProgressBar ![Swift 4.2](https://img.shields.io/badge/swift-4.2-brightgreen.svg) [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](http://perso.crans.org/besson/LICENSE.html)
+# JCGGProgressBar ![Swift 4.2](https://img.shields.io/badge/swift-5-brightgreen.svg) [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](http://perso.crans.org/besson/LICENSE.html)
 > A simple and aesthetic progress bar.
 
 A custom control that indicates progress. Fairly customizable too.
